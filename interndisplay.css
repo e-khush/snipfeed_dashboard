@@ -1,0 +1,11 @@
+.float{
+    position: absolute;
+    right:2vw;
+}
+.navbar{
+    width: 90%;
+    float: right;
+}
+.nav{
+    float: left;
+}
