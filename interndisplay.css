@@ -5,7 +5,206 @@
 .navbar{
     width: 90%;
     float: right;
+    border-bottom: 0.5px solid #f4f4f4;
+    border-left: 0.5px solid #f4f4f4;
 }
 .nav{
-    float: left;
+    position: absolute;
+    left:1vw;
 }
+.icons{
+    width: 80px; 
+}
+.nav-item:hover{
+    background-color: #f4f4f4;
+    border-radius: 10%;
+}
+.nav-item1{
+    background-color: #feeef2;
+    border-radius: 10%;
+}
+.nav-item{
+    padding: 5px;
+    text-decoration: none;
+}
+
+
+
+.link{
+    position: absolute;
+    right: 8vw;
+    background-color: #faf6f3;
+    padding-top:1vw ;
+    padding-bottom: 0.3vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 40px;
+}
+.link a{
+    text-decoration: none;
+}
+.link span{
+    background-color: white;
+    padding-top:0.5vw ;
+    padding-bottom: 0.8vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 40px;
+    margin-left: 1vw;  
+}
+.logo{
+    width: 75px;
+    justify-content: center;
+}
+.h-navicon{
+    width: 60px;
+}
+.form-control{
+    border-radius: 20%;
+}
+.leftbox{
+    position: absolute;
+    left:9.9vw;
+    top:69px;
+    background-color:#faf6f3;
+    width: 45%;
+}
+.box1{
+    background-color: white;
+    margin: 3vw;
+    padding: 2vw;
+    margin-bottom: 5px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.box1 p{
+    text-align: center;
+}
+.box2 p{
+    text-align: center;
+}
+.box3 p{
+    font-size: 12px;
+    background-color: #f4f4f4;
+    width: 20%;
+    text-align: center;
+    border-radius: 50px;
+    padding: 4px;
+}
+.box2{
+    background-color: white;
+    margin: 3vw;
+    padding: 2vw;
+    margin-top: 5px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.box3{
+    background-color: white;
+    margin: 3vw;
+    padding: 2vw;
+    margin-top: 5px;
+    margin-bottom: 100px;
+}
+.boxicon{
+    width: 70px;
+}
+.p-2 .boxicon{
+    margin-left: 18px;
+}
+.p-2{
+    text-align: center;
+}
+.p-1{
+    text-align: center;
+}
+hr{
+    opacity: 90%;
+}
+.rightbox{
+    float: right;
+    width: 58%;
+    position: absolute;
+ left:54vw;
+ top:65px;
+ background-color: #34776b;
+ text-align: center;
+ border-radius: 40px;
+ padding-top: 10px;
+ padding-bottom: 70px;
+ border: 4px solid black;
+ 
+  
+}
+.rightbox img{
+    width: 40px;
+}
+.input-group{
+ justify-content: center;
+}
+.right{
+    margin: 16px;
+    
+}
+.khushi img{
+   width: 100px; 
+}
+.rightbox p img{
+    width: 35px;
+    float: left;
+    position: absolute;
+    left:1.5vw;
+    top:2vw;
+}
+.right h6{
+    color: white;
+}
+.right h3{
+    color: white;
+}
+.right p{
+    background-color: #f3ad9a;
+    padding:1vw;
+    border-radius: 40px;
+    color: white;
+    font-size: 1.6vw;
+}
+.right p img{
+    width: 18px;
+    position: absolute;
+    top:23.8vw;
+    left:15.2vw; 
+}
+.right span{
+    color: white;
+    background-color: #2d665c;
+    padding-top: 1.4vw;
+    padding-bottom: 1.4vw;
+    padding-left: 9vw;
+    padding-right: 7.4vw;
+    border-radius: 40px;  
+}
+
+.right span img{
+width: 26px;
+position: absolute;
+top:29.5vw;
+left:8.2vw;
+}
+input.transparent-input{
+    background-color:transparent !important;
+}
+.sub{
+    color: white;
+    background-color: #2d665c;
+    padding-top: 1.4vw;
+    padding-bottom: 1.4vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    border-radius: 45px;
+}
+.rightbox p{
+    color: white;
+}
+
+
